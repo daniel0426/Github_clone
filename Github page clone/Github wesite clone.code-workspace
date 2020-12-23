@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Github page clone",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Github page clone",
+		"liveServer.settings.port": 5502
+	}
+}
